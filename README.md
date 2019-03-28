@@ -1,5 +1,5 @@
 # Axial-bending-coupled-vibration-of-stepped-beam
-Use an analytical method to solve both the free and forced vibration of axially loaded stepped laminated beams with general layers and arbitrary boundary conditions as demostrated in <img scheme src="demo_shaft.svg" width=500/>.  
+Use an analytical method to solve both the free and forced vibration of axially loaded stepped laminated beams with general layers and arbitrary boundary conditions as demostrated in <img scheme src="Graphical abstract.svg" />.  
 
 
 
